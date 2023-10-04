@@ -14,7 +14,7 @@ import java.util.ArrayList;
  *
  * @author johnp
  */
-public class Rooms {
+public class Roomss {
     
     private String roomID;
     private String roomType;
